@@ -24,7 +24,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617
 <a href="https://github.com/ribamarmuniz">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://jrm-dev.vercel.app/">
+<a href="https://ribamarmuniz.vercel.app//">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
 </a>
 <a href="http://lattes.cnpq.br/6040082633709338">
@@ -552,7 +552,7 @@ mindmap
   <img src="https://img.shields.io/badge/Enviar%20E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 &nbsp;
-<a href="https://jrm-dev.vercel.app/">
+<a href="https://ribamarmuniz.vercel.app//">
   <img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
 </a>
 
